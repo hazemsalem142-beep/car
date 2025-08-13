@@ -44,7 +44,7 @@ let parent = document.getElementById('parent')
 
 document.onkeyup = (e) => {
     if (e.key === 'c'){
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     }
 }
 
@@ -79,7 +79,7 @@ setTimeout(() => {
         text:'your order has been delevred.'
     })
     setTimeout(() => {
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     },3000)
 },3000)
 },3000)
@@ -112,7 +112,7 @@ setTimeout(() => {
         text:'your order has been delevred.'
     })
     settimeout(() => {
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     },3000)
 },3000)
 },3000)
@@ -144,7 +144,7 @@ setTimeout(() => {
         text:'your order has been delevred.'
     })
     setTimeout(() => {
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     },3000)
 },3000)
 },3000)
@@ -176,7 +176,7 @@ setTimeout(() => {
         text:'your order has been delevred.'
     })
     settimeout(() => {
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     },3000)
 },3000)
 },3000)
@@ -208,7 +208,7 @@ setTimeout(() => {
         text:'your order has been delevred.'
     })
     settimeout(() => {
-        location.replace('hazemsalem142-beep.github.io/box/')
+        location.replace('https://hazemsalem142-beep.github.io/car/hazemsalem142-beep.github.io/box/')
     },3000)
 },3000)
 },3000)
@@ -408,5 +408,6 @@ setTimeout(() => {
 //  },2000)
 //  },2000)
 // }
+
 
 
