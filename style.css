@@ -1,0 +1,102 @@
+@media screen and (max-width:3486348645453275467534562425356px){
+#images{
+    text-align: center;
+
+}
+
+#images img{
+    cursor: pointer;
+padding-left: 140px;
+margin: auto;
+margin-top: 0;
+}
+
+/* the car */
+#face{
+
+    height: 40px;
+    background-color: snow;
+    width: 40px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 3px;
+}
+
+#parent{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    margin-top: auto;
+    
+}
+
+body{
+    overflow: hidden;
+    background-color: gray;
+}
+
+#glasses{
+    height: 29px;
+    width: 10px;
+    background-color: black;
+    margin-top: 5px;
+}
+
+
+
+
+#border{
+    width: 50px;
+    height: 46px;
+    background-color: rgba(127, 255, 212, 0.699);
+}
+
+#door , #door2{
+    background-color: rgba(127, 255, 212, 0.699);
+    height: 15.1px;
+    width: 5px;
+    display: none;    
+}
+#door{
+    margin-bottom: 16px;
+}
+#light,#light2{
+    background-color: snow;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    margin-left: 34px;
+    margin-bottom: 11px;
+
+    
+}    #container {
+        height: 25px;
+        background-color: rgb(228, 89, 8);
+        width: 25px;
+        margin: auto;
+        cursor: default;
+        opacity: 0.5;
+        
+    }
+
+
+
+
+
+
+
+}
+
+
+ @media screen  and  (max-width:600px){
+    
+#images img{
+    cursor: pointer;
+padding-left: 10px;
+margin: auto;
+margin-top: 0;
+}
+} 
+
+/* 467 */
